@@ -14,7 +14,7 @@ This project presents an interactive Excel dashboard for data analysis and visua
 
 ## Dashboard Preview
 
-![Excel Dashboard](Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
