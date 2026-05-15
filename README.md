@@ -20,7 +20,7 @@ This project presents an interactive Excel dashboard for data analysis and visua
   <li>📗 Microsoft Excel</li>
   <li>📊 Pivot Tables</li>
   <li>📈 Charts & Dashboard Design</li>
-  <li>⚙️ Power Query<li>
+  <li>⚙️ Power Query</li>
 </ul>
 
 <hr>
