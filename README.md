@@ -31,24 +31,24 @@ This project presents an interactive Excel dashboard for data analysis and visua
   <li><strong>Raw Data :</strong> The initial source of information before processing.</li>
   <li><strong>Data Cleaning (Power Query):</strong>
     <ul>
-      <li>Removed duplicates & nulls</li>
-      <li>Standardized date formats</li>
-      <li>Derived new columns: customer type, delivery duration, order status</li>
-      <li>Calculated: scheduled vs. actual delivery time</li>
+    <li>Removed duplicates & nulls</li>
+    <li>Standardized date formats</li>
+    <li>Derived new columns: customer type, delivery duration, order status</li>
+    <li>Calculated: scheduled vs. actual delivery time</li>
     </ul>
   </li>
   <li><strong>Pivot Analysis (analysis_pivots sheet):</strong>
     <ul>
-      <li>Sales aggregation by platform, region, product</li>
-      <li>Delivery performance metrics</li>
-      <li>Payment method distribution</li>
+    <li>Sales aggregation by platform, region, product</li>
+    <li>Delivery performance metrics</li>
+    <li>Payment method distribution</li>
     </ul>
   </li>
   <li><strong>Interactive Dashboard:</strong>
     <ul>
-      <li>Slicers: Platform | Customer Type | Order Status</li>
-      <li>All charts linked to pivot tables</li>
-      <li>Auto-refreshes on slicer selection</li>
+    <li>Slicers: Platform | Customer Type | Order Status</li>
+    <li>All charts linked to pivot tables</li>
+    <li>Auto-refreshes on slicer selection</li>
     </ul>
   </li>
 </ul>
