@@ -28,7 +28,7 @@ This project presents an interactive Excel dashboard for data analysis and visua
 <h2>🔄 Workflow</h2>
 
 <ul>
-  <li><strong>Raw Data (البيانات):</strong> The initial source of information before processing.</li>
+  <li><strong>Raw Data :</strong> The initial source of information before processing.</li>
   <li><strong>Data Cleaning (Power Query):</strong>
     <ul>
       <li>Removed duplicates & nulls</li>
