@@ -32,12 +32,19 @@ This project presents an interactive Excel dashboard for data analysis and visua
 
 <hr>
 
-<h2>📖 Project Description</h2>
+<h2>📊 Business Question Answer (KPIs)</h2>
 
 <ul>
-  <li>✅ Built an interactive dashboard using Excel</li>
-  <li>✅ Analyzed key business metrics using Pivot Tables</li>
-  <li>✅ Created charts to visualize insights and trends</li>
+  <li>Total Sales</li>
+  <li>Total Orders</li>
+  <li>Average Selling Price</li>
+  <li>Sales by Platform</li>
+  <li>Best Seller</li>
+  <li>Best Selling Color</li>
+  <li>On-time Delivery Rate</li>
+  <li>Delivery Status Breakdown (Cancelled / Not Delivered Orders)</li>
+  <li>Top City by Sales (Orders by Area)</li>
+  <li>Number of Customers (Individuals & Companies)</li>
 </ul>
 
 <hr>
